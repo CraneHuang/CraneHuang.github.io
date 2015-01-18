@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Details determine success or failure!!!]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.renhehuang.com/"/>
-  <updated>2015-01-18T07:51:16.127Z</updated>
+  <updated>2015-01-18T08:07:10.114Z</updated>
   <id>http://www.renhehuang.com/</id>
   
   <author>
@@ -15,15 +15,58 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[blog]]></title>
+    <title><![CDATA[试试markdown的语法]]></title>
     <link href="http://www.renhehuang.com/2015/01/17/blog/"/>
     <id>http://www.renhehuang.com/2015/01/17/blog/</id>
     <published>2015-01-17T13:55:23.000Z</published>
-    <updated>2015-01-17T13:55:23.000Z</updated>
-    <content type="html"><![CDATA[]]></content>
+    <updated>2015-01-18T08:05:51.000Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p><strong>引用</strong><br><em>斜体</em></p>
+<p><a href="http://renhehuang.com" title="it&#39;s my blog" target="_blank" rel="external">Crane’s blog</a></p>
+<p>clojure code</p>
+<p>use the <code>(println &quot;Crane Android Clojure&quot;)</code></p>
+<figure class="highlight ruby"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">require</span> <span class="string">'redcarpet'</span></div><div class="line">markdown = <span class="constant">Redcarpet</span>.new(<span class="string">"Hello World!"</span>)</div><div class="line">puts markdown.to_html</div></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th>Tables</th>
+<th style="text-align:center">Are</th>
+<th style="text-align:right">Cool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>col 3 is</td>
+<td style="text-align:center">right-aligned</td>
+<td style="text-align:right">$1600</td>
+</tr>
+<tr>
+<td>col 2 is</td>
+<td style="text-align:center">centered</td>
+<td style="text-align:right">$12</td>
+</tr>
+<tr>
+<td>zebra stripes</td>
+<td style="text-align:center">are neat</td>
+<td style="text-align:right">$1</td>
+</tr>
+</tbody>
+</table>
+]]></content>
     <summary type="html">
-    <![CDATA[]]>
+    <![CDATA[<ol>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p><strong>引用</strong><br><em>斜体</em></p>
+<p><a href="http://renhehuang.com" title="it&#39;s my blog"]]>
     </summary>
+    
+      <category term="test" scheme="http://www.renhehuang.com/tags/test/"/>
     
   </entry>
   
