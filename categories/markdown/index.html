@@ -1,10 +1,10 @@
 
- <!DOCTYPE HTML>
+  <!DOCTYPE HTML>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   
-    <title>Category: undefined | The Code Life of Crane</title>
+    <title>Category: markdown | The Code Life of Crane</title>
     <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
     
     <meta name="author" content="Crane Huang">
@@ -14,12 +14,12 @@
     
     <meta name="description" content="Keep moving,never give up ...">
 <meta property="og:type" content="website">
-<meta property="og:title" content="categories">
-<meta property="og:url" content="http://www.renhehuang.com/categories/index.html">
+<meta property="og:title" content="The Code Life of Crane">
+<meta property="og:url" content="http://www.renhehuang.com/categories/markdown/">
 <meta property="og:site_name" content="The Code Life of Crane">
 <meta property="og:description" content="Keep moving,never give up ...">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="categories">
+<meta name="twitter:title" content="The Code Life of Crane">
 <meta name="twitter:description" content="Keep moving,never give up ...">
 
 
@@ -74,17 +74,31 @@
 </div>
       </header>
       <div id="container">
-          
+        
+
 <div class="archive-title" >
-<h2 class="category-icon">分类</h2>
-
-<a data-src="/categories/markdown/" href="#markdown" title="markdown">markdown<sup>1</sup></a>
-
+  <h2 class="category-icon">markdown</h2>
+  
 </div>
-<div id="main" class="archive-part">
-<div class="all-list-box"></div>
-</div>
+<div id="main" class="archive-part clearfix">
+  <div id="archive-page">
 
+  <section class="post" itemscope itemprop="blogPost">
+  
+    <a href="/2015/01/17/blog/" title="试试markdown的语法" itemprop="url">
+  
+
+    <time datetime="2015-01-17T13:55:23.000Z" itemprop="datePublished">2015-01-17</time>
+
+
+    <h1 itemprop="name">试试markdown的语法</h1>
+
+  </a>
+</section>
+
+
+  </div>
+</div>
 
       </div>
       <footer><div id="footer" >
@@ -195,24 +209,6 @@ $(document).ready(function(){
 
 
 
-
-<script type="text/javascript">
-$(document).ready(function(){ 
-  var list    = $('.archive-title a'),
-      box     = $('.all-list-box'),
-      first   = $('.archive-title a:first-of-type');
-      box.load(first.attr('data-src').toString()+' #archive-page');
-      first.addClass('current');
-  list.each(function(){
-    $(this).click(function(){
-      var listSrc=$(this).attr('data-src').toString()+' #archive-page';
-      box.load(listSrc);
-      list.removeClass('current');
-      $(this).addClass('current');
-     });  
-    });
-  }); 
-</script>
 
 
 
