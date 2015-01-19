@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Details determine success or failure!!!]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.renhehuang.com/"/>
-  <updated>2015-01-19T04:29:07.582Z</updated>
+  <updated>2015-01-19T08:03:32.901Z</updated>
   <id>http://www.renhehuang.com/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://www.renhehuang.com/2015/01/17/blog/"/>
     <id>http://www.renhehuang.com/2015/01/17/blog/</id>
     <published>2015-01-17T13:55:23.000Z</published>
-    <updated>2015-01-19T04:22:32.000Z</updated>
+    <updated>2015-01-19T08:03:11.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li>有序列表</li>
 <li>有序列表</li>
@@ -60,8 +60,17 @@
 </tr>
 </tbody>
 </table>
-<p><a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#114;&#101;&#110;&#104;&#101;&#x68;&#117;&#x61;&#110;&#103;&#x31;&#57;&#x39;&#x32;&#64;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#111;&#x6d;">&#114;&#101;&#110;&#104;&#101;&#x68;&#117;&#x61;&#110;&#103;&#x31;&#57;&#x39;&#x32;&#64;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#111;&#x6d;</a></p>
-<p>![Crane] (<a href="http://dn-renhehuang.qbox.me/author.jpg" target="_blank" rel="external">http://dn-renhehuang.qbox.me/author.jpg</a>)</p>
+<p><a href="&#x6d;&#97;&#105;&#108;&#x74;&#x6f;&#x3a;&#x72;&#x65;&#x6e;&#x68;&#x65;&#x68;&#117;&#97;&#x6e;&#x67;&#49;&#57;&#57;&#x32;&#x40;&#103;&#x6d;&#97;&#x69;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#x72;&#x65;&#x6e;&#x68;&#x65;&#x68;&#117;&#97;&#x6e;&#x67;&#49;&#57;&#57;&#x32;&#x40;&#103;&#x6d;&#97;&#x69;&#108;&#x2e;&#99;&#x6f;&#x6d;</a></p>
+<img src="/imgs/author.jpg" width="200" height="200" title="我">
+
+<!-- ![other] (http://ww2.sinaimg.cn/large/bcb11fe5gw1eoeshh48dbj20im0dydhr.jpg) -->
+
+<blockquote>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
+</blockquote>
+
+
 ]]></content>
     <summary type="html">
     <![CDATA[<ol>
